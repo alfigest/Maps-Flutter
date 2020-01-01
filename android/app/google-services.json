@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "58877791320",
+    "firebase_url": "https://mapflutter-d7a4e.firebaseio.com",
+    "project_id": "mapflutter-d7a4e",
+    "storage_bucket": "mapflutter-d7a4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58877791320:android:54ea07572e821a2a",
+        "android_client_info": {
+          "package_name": "com.tomazic.flutter_praviaed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58877791320-07kia8jjpbqhlqgaqi7tencv721ioh68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYBG0hF5mUdzE5S0c3zLaX_t8xpGoN8nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58877791320-07kia8jjpbqhlqgaqi7tencv721ioh68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
